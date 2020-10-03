@@ -1,6 +1,6 @@
 #Covid-19-analysis
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/zsozsoGit/covid-19-analysis.git/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/zsozsoGit/covid-19-analysis.git/master)   
 Covid-19 India's statewide analysis with census data 2011 and Kaggle data
 
 Notebook covid-19-data-discovery.ipynb contains analysis of statewise data (Population density, Literacy rate, Elderly population Rate, Number of International Airports per State, How busy the international Airports are in terms of number of passengers traveling per million through it).
